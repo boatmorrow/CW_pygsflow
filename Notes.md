@@ -49,8 +49,4 @@
 *  3/3/23 - Need to figure out how to use the ssurgo data set.  Think I need to read the raster in to python, then I can make 
     other rasters using a join on the mukey.  The main issue is now finding the correct columns in the correct tables.
 
-
-
-
-
-
+TESTING
